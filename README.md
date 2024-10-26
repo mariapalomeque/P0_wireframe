@@ -30,6 +30,28 @@ El menú se mantiene en la parte superior. Debajo, aparece la imagenes del produ
 
 ## Cesta de compra
 
-En la sección de la cesta, el menú se mantiene visible en la parte superior, aunque sin el buscador. Debajo del menú, se muestra una lista de los productos añadidos a la cesta, con su imagen, nombre, cantidad, precio y una opción para eliminarlos. A la derecha, se presenta el precio total del pedido, junto con la opción de finalizar y proceder al pago. Más abajo, aparecen imágenes de productos destacados para continuar comprando si se desea.
+En la sección de la cesta, el menú se mantiene visible en la parte superior, aunque sin el buscador. Debajo del menú, se ve una lista de los productos añadidos al carrito, con su imagen, nombre, cantidad, precio y una opción para eliminarlos. A la derecha, se presenta el precio total del pedido, junto con la opción de finalizar y proceder al pago. Más abajo, aparecen imágenes de productos destacados para continuar comprando si se desea.
 
 En la versión móvil, el listado de productos y el total se mantienen; sin embargo, debido al espacio reducido, se omiten las recomendaciones de productos destacados. Aun así, siempre es posible seguir comprando desde el menú inferior.
+
+![alt text](Imagenes/cesta.jpeg)
+
+## Registro usuario 
+
+En la versión web para ordenador, la pantalla se divide en dos secciones. En la parte izquierda, se muestra el logotipo de la empresa junto con su nombre, seguido de los campos necesarios para iniciar sesión. En la sección derecha, se encuentran los datos requeridos para registrarse, junto con una casilla para aceptar las políticas de seguridad de la web.
+
+En la versión móvil, la pantalla inicial incluye el logotipo de la empresa, su nombre y un breve texto introductorio. Debajo, hay dos botones que permiten elegir entre iniciar sesión o registrarse. Según la opción seleccionada, se redirige a la pantalla correspondiente, que mantiene una estructura similar a las secciones de la versión web.
+
+![alt text](Imagenes/registro.jpeg)
+
+## Blog y noticias
+
+Regresamos al formato base de la web, con el menú en la parte superior. En esta pantalla, sin embargo, el buscador está diseñado para buscar noticias en lugar de productos. Debajo del menú, se muestra el listado de noticias, que sigue una estructura consistente: cada publicación incluye la foto y el nombre del usuario, el título del post y el contenido, que puede incluir texto e imágenes. A la derecha de esta sección, se encuentra el espacio para redactar nuevas publicaciones.
+
+En la versión de aplicaición móvil, el diseño es ligeramente diferente. En la cabecera aparece el logotipo de la marca junto con el título "Noticias" y un ícono de lupa para abrir el buscador. La estructura de cada noticia se mantiene igual; para crear una nueva publicación, basta con presionar el botón de “+”, ubicado en la esquina inferior derecha, justo encima del menú. Esto abrirá la pantalla de creación de publicaciones, donde se puede agregar un título, el cuerpo de la noticia, así como insertar vínculos o imágenes, con botones para publicar o eliminar la entrada.
+
+![alt text](Imagenes/noticias.jpeg)
+
+
+Es importante señalar que este es un wireframe de baja fidelidad, diseñado únicamente para ofrecer una idea básica de cómo será la aplicación. La estructura y lógica de este prototipo no representan una versión final ni del estilo visual ni de sus funcionalidades.
+
